@@ -15,9 +15,9 @@ required by German Law. Contact me or use translation tools for an english versi
 <hr>
 
 #### Anbieter und Verantwortliche Person
-Jonathan Evans   
+Jonathan Evans-Jurascheck
 Im Heideck 18   
-Hattershiem am Main 65795   
+Hattersheim am Main 65795   
 
 #### Kontakt
 e-Mail: jon@strength4life.eu
