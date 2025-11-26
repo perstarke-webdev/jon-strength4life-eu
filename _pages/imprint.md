@@ -15,7 +15,7 @@ required by German Law. Contact me or use translation tools for an english versi
 <hr>
 
 #### Anbieter und Verantwortliche Person
-Jonathan Evans-Jurascheck
+Jonathan Evans-Jurascheck    
 Im Heideck 18   
 Hattersheim am Main 65795   
 
